@@ -1,0 +1,25 @@
+{
+    "name": "vildanhakanaj/article-slug",
+    "description": "A type that helps you work with the slugs",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "VildanHakanaj\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "VildanHakanaj\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vildan Hakanaj",
+            "email": "vildanhakanaj@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^10.2@dev"
+    }
+}
