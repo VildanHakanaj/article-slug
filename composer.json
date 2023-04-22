@@ -20,6 +20,7 @@
     ],
     "minimum-stability": "dev",
     "require-dev": {
+        "php": "^7.4||^8.0",
         "phpunit/phpunit": "^10.2@dev"
     }
 }
